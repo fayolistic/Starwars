@@ -53,16 +53,16 @@ function createList(data) {
 } 
 const characterImages = {
     
-    "C-3PO": "/images/c-3po.webp",
-    "R2-D2": "/images/R2-D2.jpeg",
-    "Luke Skywalker": "/images/Luke Skywalker.webp",
-    "Darth Vader": "/images/Darth Vader.jpeg",
-    "Leia Organa": "/images/Leia Organa.jpeg",
-    "Owen Lars" : "/images/Owen Lars.jpeg",
-    "Beru Whitesun lars": "/images/Beru Whitesun lars.jpeg",
-    "R5-D4": "/images/R5-D4.webp",
-    "Obi-Wan Kenobi": "/images/Obi-Wan Kenobi.jpeg",
-    "Biggs Darklighter": "/images/Biggs Darklighter.jpeg",
+    "C-3PO": "./images/c-3po.webp",
+    "R2-D2": "./images/R2-D2.jpeg",
+    "Luke Skywalker": "./images/Luke Skywalker.webp",
+    "Darth Vader": "./images/Darth Vader.jpeg",
+    "Leia Organa": "./images/Leia Organa.jpeg",
+    "Owen Lars" : "./images/Owen Lars.jpeg",
+    "Beru Whitesun lars": "./images/Beru Whitesun lars.jpeg",
+    "R5-D4": "./images/R5-D4.webp",
+    "Obi-Wan Kenobi": "./images/Obi-Wan Kenobi.jpeg",
+    "Biggs Darklighter": "./images/Biggs Darklighter.jpeg",
     
 };
 function showDetails(character) {

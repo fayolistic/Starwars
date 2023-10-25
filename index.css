@@ -35,7 +35,7 @@
     }
   }
   body {
-    background-image: url(/images/star-wars-background.jpeg);
+    background-image: url(./images/star-wars-background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

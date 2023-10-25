@@ -12,10 +12,10 @@
     font-family: 'Arial', sans-serif;
     white-space: nowrap;
     display: inline-block;
-    transition: transform 0.3s ease; /* Add a smooth transition */
+    transition: transform 0.3s ease; 
   }
   .force:hover {
-    animation: snakeEffect 2s linear infinite; /* Apply the snake effect on hover */
+    animation: snakeEffect 2s linear infinite; 
   }
   @keyframes snakeEffect {
     0% {
@@ -116,7 +116,7 @@
     font-size: 15px;
     font-weight: 500;
   }
-  /* styling for the link list items*/  
+  
   li a {
     display: block;
     color: rgb(36, 234, 10);
@@ -124,7 +124,7 @@
     padding: 14px 16px;
     text-decoration: none;
   }  
-  /* styling on hover of the link list items*/
+
   li a:hover {
     background-color: black;
   }
@@ -149,7 +149,7 @@
     margin: 8px 0;
     transition: 0.4s;
   }
-  /*media query for mobile devices */
+  
   @media screen and (max-width: 768px) {
     body {
       background-size: cover;
